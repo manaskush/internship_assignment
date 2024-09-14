@@ -52,3 +52,4 @@ export default tseslint.config({
 "# GrowMeOrganic_React_assignment" 
 "# GrowMeOrganic_React_assignment" 
 "# internship_assignment" 
+"# internship_assignment" 
